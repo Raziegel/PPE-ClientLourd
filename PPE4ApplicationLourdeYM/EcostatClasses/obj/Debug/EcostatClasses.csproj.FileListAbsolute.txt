@@ -1,0 +1,17 @@
+C:\Users\ymazza\Documents\Visual Studio 2017\Projects\PPE4ApplicationLourdeYM\EcostatClasses\bin\Debug\EcostatClasses.dll.config
+C:\Users\ymazza\Documents\Visual Studio 2017\Projects\PPE4ApplicationLourdeYM\EcostatClasses\bin\Debug\EcostatClasses.dll
+C:\Users\ymazza\Documents\Visual Studio 2017\Projects\PPE4ApplicationLourdeYM\EcostatClasses\bin\Debug\EcostatClasses.pdb
+C:\Users\ymazza\Documents\Visual Studio 2017\Projects\PPE4ApplicationLourdeYM\EcostatClasses\bin\Debug\EntityFramework.dll
+C:\Users\ymazza\Documents\Visual Studio 2017\Projects\PPE4ApplicationLourdeYM\EcostatClasses\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ymazza\Documents\Visual Studio 2017\Projects\PPE4ApplicationLourdeYM\EcostatClasses\bin\Debug\MySql.Data.dll
+C:\Users\ymazza\Documents\Visual Studio 2017\Projects\PPE4ApplicationLourdeYM\EcostatClasses\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\ymazza\Documents\Visual Studio 2017\Projects\PPE4ApplicationLourdeYM\EcostatClasses\bin\Debug\EntityFramework.xml
+C:\Users\ymazza\Documents\Visual Studio 2017\Projects\PPE4ApplicationLourdeYM\EcostatClasses\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ymazza\Documents\Visual Studio 2017\Projects\PPE4ApplicationLourdeYM\EcostatClasses\obj\Debug\EcostatClasses.csprojResolveAssemblyReference.cache
+C:\Users\ymazza\Documents\Visual Studio 2017\Projects\PPE4ApplicationLourdeYM\EcostatClasses\obj\Debug\EcostatClasses.dll
+C:\Users\ymazza\Documents\Visual Studio 2017\Projects\PPE4ApplicationLourdeYM\EcostatClasses\obj\Debug\EcostatClasses.pdb
+C:\Users\ymazza\Documents\Visual Studio 2017\Projects\PPE4ApplicationLourdeYM\EcostatClasses\obj\Debug\EcostatClasses.Migrations.Initial.resources
+C:\Users\ymazza\Documents\Visual Studio 2017\Projects\PPE4ApplicationLourdeYM\EcostatClasses\obj\Debug\EcostatClasses.csproj.GenerateResource.Cache
+C:\Users\ymazza\Documents\Visual Studio 2017\Projects\PPE4ApplicationLourdeYM\EcostatClasses\obj\Debug\EcostatClasses.Migrations.Entities.resources
+C:\Users\ymazza\Documents\Visual Studio 2017\Projects\PPE4ApplicationLourdeYM\EcostatClasses\obj\Debug\EcostatClasses.Migrations.admin.resources
+C:\Users\ymazza\Documents\Visual Studio 2017\Projects\PPE4ApplicationLourdeYM\EcostatClasses\obj\Debug\EcostatClasses.Migrations.Icool.resources

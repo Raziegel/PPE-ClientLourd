@@ -1,0 +1,17 @@
+C:\Users\ymazza\Documents\Visual Studio 2017\Projects\PPE4ApplicationLourdeYM\EcostatClasses\bin\Release\EcostatClasses.dll.config
+C:\Users\ymazza\Documents\Visual Studio 2017\Projects\PPE4ApplicationLourdeYM\EcostatClasses\bin\Release\EcostatClasses.dll
+C:\Users\ymazza\Documents\Visual Studio 2017\Projects\PPE4ApplicationLourdeYM\EcostatClasses\bin\Release\EcostatClasses.pdb
+C:\Users\ymazza\Documents\Visual Studio 2017\Projects\PPE4ApplicationLourdeYM\EcostatClasses\bin\Release\EntityFramework.dll
+C:\Users\ymazza\Documents\Visual Studio 2017\Projects\PPE4ApplicationLourdeYM\EcostatClasses\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\ymazza\Documents\Visual Studio 2017\Projects\PPE4ApplicationLourdeYM\EcostatClasses\bin\Release\MySql.Data.dll
+C:\Users\ymazza\Documents\Visual Studio 2017\Projects\PPE4ApplicationLourdeYM\EcostatClasses\bin\Release\MySql.Data.Entity.EF6.dll
+C:\Users\ymazza\Documents\Visual Studio 2017\Projects\PPE4ApplicationLourdeYM\EcostatClasses\bin\Release\EntityFramework.xml
+C:\Users\ymazza\Documents\Visual Studio 2017\Projects\PPE4ApplicationLourdeYM\EcostatClasses\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\ymazza\Documents\Visual Studio 2017\Projects\PPE4ApplicationLourdeYM\EcostatClasses\obj\Release\EcostatClasses.csprojResolveAssemblyReference.cache
+C:\Users\ymazza\Documents\Visual Studio 2017\Projects\PPE4ApplicationLourdeYM\EcostatClasses\obj\Release\EcostatClasses.Migrations.Initial.resources
+C:\Users\ymazza\Documents\Visual Studio 2017\Projects\PPE4ApplicationLourdeYM\EcostatClasses\obj\Release\EcostatClasses.Migrations.Entities.resources
+C:\Users\ymazza\Documents\Visual Studio 2017\Projects\PPE4ApplicationLourdeYM\EcostatClasses\obj\Release\EcostatClasses.Migrations.admin.resources
+C:\Users\ymazza\Documents\Visual Studio 2017\Projects\PPE4ApplicationLourdeYM\EcostatClasses\obj\Release\EcostatClasses.Migrations.Icool.resources
+C:\Users\ymazza\Documents\Visual Studio 2017\Projects\PPE4ApplicationLourdeYM\EcostatClasses\obj\Release\EcostatClasses.csproj.GenerateResource.Cache
+C:\Users\ymazza\Documents\Visual Studio 2017\Projects\PPE4ApplicationLourdeYM\EcostatClasses\obj\Release\EcostatClasses.dll
+C:\Users\ymazza\Documents\Visual Studio 2017\Projects\PPE4ApplicationLourdeYM\EcostatClasses\obj\Release\EcostatClasses.pdb

@@ -1,0 +1,31 @@
+﻿<Controls:MetroWindow x:Class="PPE4ApplicationLourdeYM.WEnquete"
+                      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                      xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
+                      Title="Enquete"
+                      Height="600"
+                      Width="960">
+    <Grid>
+        <TextBox x:Name="TitreEnquete" Text="Titre de l'enquete" HorizontalAlignment="Left" Height="23" Margin="84,56,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+
+        <ComboBox x:Name="Clients" HorizontalAlignment="Left" Margin="84,228,0,0" VerticalAlignment="Top" Width="120"/>
+        <DatePicker x:Name="DateCrea" HorizontalAlignment="Left" Margin="209,112,0,0" VerticalAlignment="Top"/>
+        <DatePicker x:Name="DateClo" HorizontalAlignment="Left" Margin="209,162,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TitreSequence" HorizontalAlignment="Left" Height="23" Margin="542,73,0,0" TextWrapping="Wrap" Text="Titre de la sequence" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TitreQuestion" HorizontalAlignment="Left" Height="23" Margin="495,249,0,0" TextWrapping="Wrap" Text="Titre de la question" VerticalAlignment="Top" Width="167"/>
+        <Separator HorizontalAlignment="Left" Height="100" Margin="542,149,0,0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.598,0.494"/>
+        <DatePicker x:Name="DateSequence" HorizontalAlignment="Left" Margin="542,131,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="Reponse1" HorizontalAlignment="Left" Height="23" Margin="475,335,0,0" TextWrapping="Wrap" Text="Reponse 1" VerticalAlignment="Top" Width="209"/>
+        <TextBox x:Name="Reponse2" HorizontalAlignment="Left" Height="23" Margin="475,385,0,0" TextWrapping="Wrap" Text="Reponse 2" VerticalAlignment="Top" Width="209"/>
+        <TextBox x:Name="Reponse3" HorizontalAlignment="Left" Height="23" Margin="475,437,0,0" TextWrapping="Wrap" Text="Reponse 3" VerticalAlignment="Top" Width="209"/>
+        <TextBox x:Name="Reponse4" HorizontalAlignment="Left" Height="23" Margin="475,493,0,0" TextWrapping="Wrap" Text="Reponse 4" VerticalAlignment="Top" Width="209"/>
+        <Button x:Name="AjouterSequence" Content="Ajouter une sequence" HorizontalAlignment="Left" Margin="779,112,0,0" VerticalAlignment="Top" Width="143" Click="AjouterSequence_Click"/>
+        <Button x:Name="AjouterQuestion" Content="Ajouter une Question à la séquence" HorizontalAlignment="Left" Margin="711,297,0,0" VerticalAlignment="Top" Width="222" RenderTransformOrigin="0.467,0.333" Click="AjouterQuestion_Click"/>
+        <ComboBox x:Name="SelectionSequence" HorizontalAlignment="Left" Margin="765,249,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="Terminer" Content="Terminer" HorizontalAlignment="Left" Margin="93,412,0,0" VerticalAlignment="Top" Width="127" Height="75" Click="Terminer_Click"/>
+        <Label x:Name="label" Content="Date de création" HorizontalAlignment="Left" Margin="84,112,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="Date de cloture" HorizontalAlignment="Left" Margin="84,162,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="Save" Content="Sauvegarder" HorizontalAlignment="Left" Margin="84,352,0,0" VerticalAlignment="Top" Width="151" Click="Save_Click"/>
+
+    </Grid>
+</Controls:MetroWindow>
